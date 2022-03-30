@@ -15,6 +15,3 @@
 include:
   - board: nrfmicro_13
     shield: reviung41
-include:
-  - board: nrfmicro_13
-    shield: reviung41
