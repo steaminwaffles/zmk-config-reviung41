@@ -13,7 +13,7 @@
 
 
 / {
-  e  e  ew w ww 
+
         behaviors {
                 
                 tdsp: tap_dance_space_bksp {
