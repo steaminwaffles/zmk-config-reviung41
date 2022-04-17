@@ -1,7 +1,7 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-if SHIELD_REVIUNG41
+if SHIELD_REVIUNG41OLED
 
 config ZMK_KEYBOARD_NAME
     default "Reviung41"
