@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: nrfmicro_13
-    shield: reviung41oled
+  - board: nice_nano_v2
+    shield: nibble
