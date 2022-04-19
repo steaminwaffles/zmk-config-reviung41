@@ -1,10 +1,14 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-if SHIELD_REVIUNG41OLED
+if SHIELD_NIBBLE
 
 config ZMK_KEYBOARD_NAME
-    default "Reviung41"
+	default "NIBBLE"
+
+config ZMK_USB
+	default y
+
 
 if ZMK_DISPLAY
 
