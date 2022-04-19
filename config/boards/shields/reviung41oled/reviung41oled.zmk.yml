@@ -1,11 +1,9 @@
 file_format: "1"
-id: reviung41oled
-name: REVIUNG41OLED
+id: nibble
+name: Nibble
 type: shield
-url: https://github.com/gtips/reviung/tree/master/reviung41
+url: https://nullbits.co/nibble/
 requires: [pro_micro]
-exposes: [i2c_oled]
 features:
   - keys
-  - display
-  - underglow
+  - encoder
